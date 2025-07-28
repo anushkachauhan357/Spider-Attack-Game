@@ -6,10 +6,11 @@
 
 ## 🎮 Gameplay
 
-- Move the player character using **arrow keys left or right** as required.
-- Avoid the **three enemy spiders** dropping from above.
-- The game ends when a spider collides with the player.
-
+- Player can move left and right using arrow keys
+- Enemy spiders fall from the top of the screen
+- Collision detection ends the game if a spider hits the player
+- Player and enemy sprites are built-in as GIFs 
+- All assets are stored inside the `src/` folder
 ---
 
 ## 🛠️ Built With
