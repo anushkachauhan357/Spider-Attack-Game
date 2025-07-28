@@ -1,0 +1,33 @@
+# ============================
+# Eclipse and Java Git Ignore
+# ============================
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore build output folders
+bin/
+build/
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore log and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore IDE-specific folders 
+.idea/
+.vscode/
+
