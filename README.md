@@ -20,4 +20,3 @@
 - **Java AWT / Swing** (for GUI rendering)
 - Custom graphics and simple collision detection
 
----
